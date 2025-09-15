@@ -3,4 +3,4 @@ train: train
 val: val
 test: test
 names: 
-  0: car_plate
+  0: screen
